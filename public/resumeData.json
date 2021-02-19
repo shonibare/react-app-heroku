@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Moshood Kolawole",
+    "occupation": "Software Developer",
+    "description": "(Full Stack Developer)",
+    "image": "moshood.jpeg",
+    "bio": "My name is Moshood, I'm a Full Stack Developer. Currently I'm a freelancer and I'm also open to work in an IT firm.",
+    "contactmessage": "Get in touch with me to receive further details, and get to know my other abilities.",
+    "email": "abiolamoshood7@gmail.com",
+    "phone": "4388666521",
+    "address": {
+      "street": "7493 Tsse Bourdeau Lasalle",
+      "city": "Montreal",
+      "state": "CA",
+      "zip": "H8N 2J6"
+    },
+    "website": "myCV.pdf",
+    "resumedownload": "myCV.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kolawole.moshood.9",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/moshood-kolawole-19bb14129/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mr_moshood/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shonibare",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Concordia University - Montreal",
+        "degree": "Master of Engineering, Software Engineering",
+        "graduated": "April 2021",
+        "description": ""
+      },
+      {
+        "school": "Kwara State University - Malete",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "December 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Software Developer",
+        "years": "January 2019 - Present",
+        "description": "Helping people with projects ranging from software and web applications"
+      },
+      {
+        "company": "Olmaf Ventures Limited",
+        "title": "Assistant Operational Manager",
+        "years": "November 2017 - December 2018",
+        "description": "Helping businesses showing their best selves to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "95%"
+      },
+      {
+        "name": "MySQL",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone with ReactJs",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon.jpg",
+        "url": " https://clone-f0070.web.app/"
+      },
+      {
+        "title": "HealthCare Appointment Scheduler",
+        "category": "built with NodeJS",
+        "image": "healthcare.jpg",
+        "url": "https://arcane-scrubland-24320.herokuapp.com/login"
+      },
+      {
+        "title": "Kigos International Group of School",
+        "category": "built with PHP",
+        "image": "kigos.jpg",
+        "url": "https://morning-ravine-59815.herokuapp.com/"
+      },
+      {
+        "title": "iCare",
+        "category": "built with PHP and Boostrap",
+        "image": "icare.jpg",
+        "url": "https://stark-reef-55012.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have known Moshood to be a dream chaser and when he puts his mind on something he gets it done.",
+        "user": "Alanamu Mustapha"
+      },
+      {
+        "text": "Moshood is a goal oriented person and he never settled for less. I believe in his dream that is going to make a great Software Developer",
+        "user": "Aremu Musa"
+      }
+    ]
+  }
+}
