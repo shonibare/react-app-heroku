@@ -4,7 +4,7 @@
     "occupation": "Software Developer",
     "description": "(Full Stack Developer)",
     "image": "moshood.jpeg",
-    "bio": "My name is Moshood, I'm a Full Stack Developer. Currently I'm a freelancer and I'm also open to work in an IT firm.",
+    "bio": "My name is Moshood, I'm a Full Stack Developer. I'm a freelancer and I'm open to work to advance my career.",
     "contactmessage": "Get in touch with me to receive further details, and get to know my other abilities.",
     "email": "abiolamoshood7@gmail.com",
     "phone": "4388666521",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are my skills",
     "education": [
       {
         "school": "Concordia University - Montreal",
